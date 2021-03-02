@@ -1,0 +1,186 @@
+body {
+  margin: 0;
+  text-align: center; 
+  font-family: 'Nunito', sans-serif;
+}
+
+/* *****CSS CODE FOR TOP-CONATAINER***** */
+
+.top-container {
+  background-color: #e3fdfd ;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 270px;
+  bottom: 300px;
+}
+
+h1{
+  margin: 50px auto 0 auto;
+  font-size: 5rem;
+  font-family: 'Cookie', cursive;
+  color: #45b2b2;
+  line-height: 1.2;
+}
+
+.top-container p {
+  font-size: 1.7rem;
+  color: #45b2b2;
+  font-weight: normal;
+  font-family: 'Baloo Bhai 2', cursive;
+}
+
+/* *****CSS CODE FOR MIDDLE-CONATAINER***** */
+
+.profile img {
+  margin: 50px auto 0px auto;
+  width: 150px;
+  height: 150px;
+}
+
+.profile h2 {
+  font-size: 2.4rem;
+}
+
+.div {
+  width: 28%;
+  margin: auto;
+  font-size: 1rem;
+}
+
+.p-1-upper {
+  margin-bottom: 0px;
+  line-height: 2;
+}
+
+.p-2-upper {
+  margin: 0px auto 50px auto;
+  line-height: 2;
+
+}
+
+.skills h3, h2 {
+  color: rgb(50 106 169);
+}
+
+.skills h2{
+  font-size: 2rem;
+  padding-top: 20px;
+  margin: 20px auto 10px auto;
+}
+
+.skills {
+  width: 50%;
+  margin: auto;
+}
+
+.skill-row-1 {
+  margin: 70px auto 110px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row-2 {
+  margin: 100px auto 20px auto;
+  text-align: left;
+  line-height: 2;
+  margin: 70px auto;
+}
+
+.skill-row h3 {
+  color: #11999E;
+}
+
+.skill-row h3, p {
+  margin-right: 30px;
+}
+
+.skill-row-img1 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-row-img2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-me h2 {
+  color: rgb(50 106 169);
+  margin-top: 50px;
+  margin-bottom: 25px;
+  font-size: 2rem;
+}
+
+.contact-me p {
+  font-size: 1rem;
+  color: #11999E;
+  font-size: 1.03rem;
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+/* *****CSS CODE FOR BUTTON***** */
+
+.btn {
+  background: #53a3d9;
+  background-image: -webkit-linear-gradient(top, #53a3d9, #247db5);
+  background-image: -moz-linear-gradient(top, #53a3d9, #247db5);
+  background-image: -ms-linear-gradient(top, #53a3d9, #247db5);
+  background-image: -o-linear-gradient(top, #53a3d9, #247db5);
+  background-image: linear-gradient(to bottom, #53a3d9, #247db5);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: 'Nunito', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #1c6b9c;
+  background-image: -webkit-linear-gradient(top, #1c6b9c, #3498db);
+  background-image: -moz-linear-gradient(top, #1c6b9c, #3498db);
+  background-image: -ms-linear-gradient(top, #1c6b9c, #3498db);
+  background-image: -o-linear-gradient(top, #1c6b9c, #3498db);
+  background-image: linear-gradient(to bottom, #1c6b9c, #3498db);
+  text-decoration: none;
+}
+
+/* *****CSS CODE FOR BOTTOM-CONATAINER***** */
+
+.bottom-container {
+  background-color: #364f6b;
+  margin: 68px 0px 0px;
+  padding: 50px 0 20px;
+}
+
+.bottom-container a {
+  color: #72a0d3;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.bottom-container a:hover {
+  color: #eaf6f6;
+  text-decoration: underline;
+}
+
+.cpy{
+  color: #eaf6f6;
+  font-size: 0.70rem;
+  padding: 20px 0px 10px;
+}
