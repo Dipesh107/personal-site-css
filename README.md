@@ -1,2 +1,2 @@
-# personal-site
-Personal CSS Site Beg
+# personal-site-css
+Personal CSS Site as a begineer
